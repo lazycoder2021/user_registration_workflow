@@ -1,0 +1,12 @@
+1. youtube integration for playing videos from app 
+
+2. sendgrid integration for sending mails from app 
+
+3. cloudinary integration for uploading images on cloud and retreiving the same using the app [local file upload] 
+
+4. simple user auth workflow (registration alone) 
+
+	- sends verification mail to the users who register (with a verification code) 
+	- which has to be reproduced to confirm registration 
+
+5. basic task scheduling or automation (using node cron npm) 
